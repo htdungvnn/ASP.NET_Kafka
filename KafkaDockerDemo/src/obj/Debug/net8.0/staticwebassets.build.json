@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kbckz2LpLJcjTNh2QfF0Kr3+/fPEVZrLrROf/6geKwE=",
+  "Source": "KafkaDockerDemo",
+  "BasePath": "_content/KafkaDockerDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
